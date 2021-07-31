@@ -78,7 +78,6 @@ for(i=0;i<amigos.length;i++){
 
 }
 
-
 }
 
 function sumArray(array, n) {
@@ -249,6 +248,8 @@ function filtrar(funcion) {
   // productos.filtrar(function(p) {
   //   return p.price >= 50;
   // }) => [{price: 100, name:'tv'}]
+
+  Arrays.prototype
 
 };
 
